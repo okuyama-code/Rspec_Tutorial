@@ -1,3 +1,13 @@
+## 参考URL
+https://hackmd.io/@t9AneIoNTV6ehFRK54neQQ/BJqPnjim_?utm_source=preview-mode&utm_medium=rec
+
+https://www.youtube.com/watch?v=WPXY56tLKCw&t=792s　
+
+## ubuntu
+cd ~/rspec_tutorial && code .
+
+https://github.com/okuyama-code/Rspec_Tutorial
+
 # An example Rails + Docker app
 
 ![CI](https://github.com/nickjj/docker-rails-example/workflows/CI/badge.svg?branch=main)
@@ -70,7 +80,7 @@ Dockerize an existing Rails app.
     - Add `pages` controller with a home page
     - Add `up` controller with 2 health check related actions
 - **Config**:
-    - Log to STDOUT so that Docker can consume and deal with log output 
+    - Log to STDOUT so that Docker can consume and deal with log output
     - Credentials are removed (secrets are loaded in with an `.env` file)
     - Extract a bunch of configuration settings into environment variables
     - Rewrite `config/database.yml` to use environment variables
@@ -369,7 +379,7 @@ couple of free and paid resources. There's Google too!
 
 ### Learn more about Docker and Ruby on Rails
 
-#### Official documentation 
+#### Official documentation
 
 - <https://docs.docker.com/>
 - <https://guides.rubyonrails.org/>
