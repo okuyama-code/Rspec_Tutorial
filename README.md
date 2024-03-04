@@ -8,6 +8,11 @@ cd ~/rspec_tutorial && code .
 
 https://github.com/okuyama-code/Rspec_Tutorial
 
+## テスト　コマンド
+bundle exec rspec spec/system/pages_spec.rb
+
+bundle exec rspec spec/system/tweets_spec.rb
+
 # An example Rails + Docker app
 
 ![CI](https://github.com/nickjj/docker-rails-example/workflows/CI/badge.svg?branch=main)
